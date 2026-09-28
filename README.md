@@ -134,3 +134,7 @@ explorer.exe /select,(Get-ItemProperty "HKCU:\Control Panel\Desktop").Wallpaper
 4. Wait about 15 minutes. It takes a long time for it to run.
 
 ![ArmouryFile](Pictures/ScreenPic22.png)
+
+5. Click next
+
+![ArmouryFile](Pictures/ScreenPic23.png)
