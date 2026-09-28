@@ -117,6 +117,22 @@ explorer.exe /select,(Get-ItemProperty "HKCU:\Control Panel\Desktop").Wallpaper
 
 ![WinFile](Pictures/ScreenPic16.png)
 
+15. Click **"Change what to keep"**
+
+![WinFile](Pictures/ScreenPic17.png)
+
+16. Select **"Keep personal files and apps"** and click **next**
+
+![WinFile](Pictures/ScreenPic18.png)
+
+17. Click install **(DONT FORGET TO REMEMBER FOLDER WITH YOU WALLPAPER PICTURE FROM 2.1 .1. - 2.1 .3)**
+
+![WinFile](Pictures/ScreenPic19.png)
+
+18. Wait until windows installs and go to **Step 3.**
+
+![WinFile](Pictures/ScreenPic20.png)
+
 ### Step 3: Armoury Crate Full Installation Package
 
 1. Click "show all" and download Armoury Crate Full Installation Package (about 5gb)
