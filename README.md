@@ -110,3 +110,7 @@ explorer.exe /select,(Get-ItemProperty "HKCU:\Control Panel\Desktop").Wallpaper
 13. Accept Terms
 
 ![WinFile](Pictures/ScreenPic15.png)
+
+14. Takes about 20 minutes to check updates
+
+![WinFile](Pictures/ScreenPic16.png)
