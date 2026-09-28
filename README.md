@@ -77,7 +77,7 @@ explorer.exe /select,(Get-ItemProperty "HKCU:\Control Panel\Desktop").Wallpaper
 3. Save it somewhere for later
    
 4. Download Win11 iso file with your language
-**Link: https://www.microsoft.com/en-us/software-download/windows11**
+<br>**Link: https://www.microsoft.com/en-us/software-download/windows11**
 
 5. Scroll to "Download Windows 11 Disk Image (ISO) for x64 devices" <br> Select it and confirm
 
