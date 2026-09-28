@@ -5,15 +5,16 @@ If your power plan or Power mode synchronization ( option in Armoury crate) is m
 <img alt="Power plans: silent and performance mode are highlighted" src="https://github.com/user-attachments/assets/740b284a-981c-44a8-a6d5-189e69180f67" />
 
 # And that's all options you must have in Armoury Crate usually
-<img alt = "Armory crate with highlighted Power mode synchronization" src="20250216172112349_EN02.png">
+<img alt="Armory crate with highlighted Power mode synchronization" src="20250216172112349_EN02.png">
 
 # How to fix it?
-There are 2 ways. Depends on your conditions. I will separate them later.
+## There are 2 ways. Depends on your conditions. I will separate them later.
+<img alt="Guide with arrows to all ways to fix issue" src="Guide.png">
 
-
+# Steps
 ## 1 Step
 install **Armoury Crate uninstall tool**
 <br>**Link:** https://www.asus.com/supportonly/armoury%20crate/helpdesk_download/
 **Tap Show all and scroll down until you find it**
-<img src="Снимок экрана 2026-09-28 230312.png">
-<img src="Снимок экрана 2026-09-28 230530.png">
+<img src="ScreenPic1.png">
+<img src="ScreenPic2.png">
