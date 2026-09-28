@@ -30,3 +30,7 @@
 **Click OK**
 <br>
 <img alt = "screen picture 4" src="ScreenPic4.png">
+
+**Click next and you will see dates of restore points, try to remember when problem appeared**
+
+**If you don't have any restore points here -> skip to step 2.1**
