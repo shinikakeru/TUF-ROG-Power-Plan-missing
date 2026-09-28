@@ -65,6 +65,8 @@ There are two main methods depending on your system state.
 
 ### Step 2.1: Windows In-place Upgrade <br>(If step 2 -> 3 didn't help, IF YOU DOING STEP 2 RIGHT NOW - SKIP TO STEP 3)
 
+**MAKE SURE YOU HAVE INTERNET AND SIGNED INTO AN ADMINISTRATOR ACCOUNT**
+
 Save your wallpaper because they will dissapear
 1. Run powershell (Press Win and type "Windows Powershell and run it)
    
@@ -134,3 +136,7 @@ explorer.exe /select,(Get-ItemProperty "HKCU:\Control Panel\Desktop").Wallpaper
 4. Wait about 15 minutes. It takes a long time for it to run.
 
 ![ArmouryFile](Pictures/ScreenPic22.png)
+
+5. Click next
+
+![ArmouryFile](Pictures/ScreenPic23.png)
