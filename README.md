@@ -107,3 +107,6 @@ explorer.exe /select,(Get-ItemProperty "HKCU:\Control Panel\Desktop").Wallpaper
 
 ![WinFile](Pictures/ScreenPic14.png)
 
+13. Accept Terms
+
+![WinFile](Pictures/ScreenPic15.png)
