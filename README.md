@@ -114,3 +114,23 @@ explorer.exe /select,(Get-ItemProperty "HKCU:\Control Panel\Desktop").Wallpaper
 14. Takes about 20 minutes to check updates
 
 ![WinFile](Pictures/ScreenPic16.png)
+
+### Step 3: Armoury Crate Full Installation Package
+
+1. Click "show all" and download Armoury Crate Full Installation Package (about 5gb)
+
+**Link: https://www.asus.com/supportonly/armoury%20crate/helpdesk_download/**
+
+![ArmouryFile](Pictures/ScreenPic1.png)
+
+![ArmouryFile](Pictures/ScreenPic20.png)
+
+2. Unzip it on your desktop
+
+3. Run Armoury Crate Full Installation Package.exe
+
+![ArmouryFile](Pictures/ScreenPic21.png)
+
+4. Wait about 15 minutes. It takes a long time for it to run.
+
+![ArmouryFile](Pictures/ScreenPic22.png)
