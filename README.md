@@ -26,4 +26,7 @@
 
 ## 2 Step
 **Win+R and type rstrui.exe**
+<br>
 **Click OK**
+<br>
+<img alt = "screen picture 4" src="ScreenPic4.png">
