@@ -10,6 +10,10 @@ If your power plan or Power mode synchronization ( option in Armoury crate) is m
 # How to fix it?
 There are 2 ways. Depends on your conditions. I will separate them later.
 
+
 ## 1 Step
 install **Armoury Crate uninstall tool**
 <br>**Link:** https://www.asus.com/supportonly/armoury%20crate/helpdesk_download/
+**Tap Show all and scroll down until you find it**
+<img src="Снимок экрана 2026-09-28 230312.png">
+<img src="Снимок экрана 2026-09-28 230530.png">
