@@ -90,3 +90,20 @@ explorer.exe /select,(Get-ItemProperty "HKCU:\Control Panel\Desktop").Wallpaper
 9. You will see download button. Click it
 
 ![Download](Pictures/ScreenPic10.png)
+
+10. After you downloaded it, right click file and click **"connect"**
+
+![WinFile](Pictures/ScreenPic11.png)
+
+11. You will see new drive in explorer. Double click it.
+![WinFile](Pictures/ScreenPic12.png)
+
+> [!NOTE]
+> If you want to cancel it - right click new drive and click *Eject* **SKIP THIS STEP IF YOU DONT WANT TO CANCEL IT**
+
+![WinFile](Pictures/ScreenPic13.png)
+
+12. You will see windows window XD <br> Click next. It will check for updates.
+
+![WinFile](Pictures/ScreenPic14.png)
+
