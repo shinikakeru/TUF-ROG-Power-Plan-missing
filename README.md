@@ -125,18 +125,18 @@ explorer.exe /select,(Get-ItemProperty "HKCU:\Control Panel\Desktop").Wallpaper
 
 ![ArmouryFile](Pictures/ScreenPic1.png)
 
-![ArmouryFile](Pictures/ScreenPic20.png)
+![ArmouryFile](Pictures/ScreenPic21.png)
 
 2. Unzip it on your desktop
 
 3. Run Armoury Crate Full Installation Package.exe
 
-![ArmouryFile](Pictures/ScreenPic21.png)
+![ArmouryFile](Pictures/ScreenPic22.png)
 
 4. Wait about 15 minutes. It takes a long time for it to run.
 
-![ArmouryFile](Pictures/ScreenPic22.png)
+![ArmouryFile](Pictures/ScreenPic23.png)
 
 5. Click next
 
-![ArmouryFile](Pictures/ScreenPic23.png)
+![ArmouryFile](Pictures/ScreenPic24.png)
