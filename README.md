@@ -156,3 +156,19 @@ explorer.exe /select,(Get-ItemProperty "HKCU:\Control Panel\Desktop").Wallpaper
 5. Click next
 
 ![ArmouryFile](Pictures/ScreenPic24.png)
+
+6. Click **System**
+
+![ArmouryFile](Pictures/ScreenPic25.png)
+
+7. Select **ROG/TUF GAMING/TX LAPTOP** and click next
+
+![ArmouryFile](Pictures/ScreenPic26.png)
+
+8. Make sure you are *correct thing** and click install
+
+![ArmouryFile](Pictures/ScreenPic27.png)
+
+9. Wait for it to install
+
+![ArmouryFile](Pictures/ScreenPic28.png)
