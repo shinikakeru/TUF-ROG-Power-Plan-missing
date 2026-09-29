@@ -65,7 +65,9 @@ There are two main methods depending on your system state.
 
 ### Step 2.1: Windows In-place Upgrade <br>(If step 2 -> 3 didn't help, IF YOU DOING STEP 2 RIGHT NOW - SKIP TO STEP 3)
 
-**MAKE SURE YOU HAVE INTERNET AND SIGNED INTO AN ADMINISTRATOR ACCOUNT**
+> [!NOTE]
+> **MAKE SURE YOU HAVE INTERNET AND SIGNED INTO AN ADMINISTRATOR ACCOUNT**
+> <br>**If you use Git Bash you might need to reinstall it for using "open in git bash" feature by right clicking inside folder.<br>It will work just fine as usual you only will be missing this feature**
 
 Save your wallpaper because they will dissapear
 1. Run powershell (Press Win and type "Windows Powershell and run it)
