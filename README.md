@@ -174,3 +174,15 @@ explorer.exe /select,(Get-ItemProperty "HKCU:\Control Panel\Desktop").Wallpaper
 9. Wait for it to install
 
 ![ArmouryFile](Pictures/ScreenPic28.png)
+
+10. Accept
+
+![ArmouryFile](Pictures/ScreenPic29.png)
+
+11. Wait
+
+![ArmouryFile](Pictures/ScreenPic30.png)
+
+12. Open
+
+![ArmouryFile](Pictures/ScreenPic31.png)
