@@ -18,7 +18,7 @@ If your power plan or **Power mode synchronization** option in Armoury Crate is 
 
 There are two main methods depending on your system state.
 
-![Guide flowchart showing fix paths](Pictures/Guide.png)
+![Guide](Pictures/Guide.png)
 
 ---
 
