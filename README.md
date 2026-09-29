@@ -63,7 +63,7 @@ There are two main methods depending on your system state.
 
 ![Final restore confirmation](Pictures/ScreenPic7.png)
 
-### Step 2.1: Windows In-place Upgrade <br>(If step 2 didn't help)
+### Step 2.1: Windows In-place Upgrade <br>(If Step 2 didn't help)
 
 > [!NOTE]
 > **MAKE SURE YOU HAVE INTERNET AND SIGNED INTO AN ADMINISTRATOR ACCOUNT**
