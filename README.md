@@ -127,7 +127,7 @@ explorer.exe /select,(Get-ItemProperty "HKCU:\Control Panel\Desktop").Wallpaper
 
 ![WinFile](Pictures/ScreenPic18.png)
 
-17. Click install **(DONT FORGET TO REMEMBER FOLDER WITH YOU WALLPAPER PICTURE FROM 2.1 .1. - 2.1 .3)**
+17. Click install **(DONT FORGET TO REMEMBER FOLDER WITH YOUR WALLPAPER PICTURE FROM 2.1 .1. - 2.1 .3)**
 
 ![WinFile](Pictures/ScreenPic19.png)
 
